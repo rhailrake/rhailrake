@@ -2,7 +2,7 @@
 <div align="center">
 	<section>
 		<a href="https://github.com/rhailrake">
-		<img width="375" src="https://github-readme-stats.vercel.app/api?username=rhailrake&count_private=true&show_icons=true&theme=tokyonight">
+		<img width="375" src="https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&include_all_commits=true">
 		</a>
 		&nbsp; &nbsp;
 		<a href="[https://github.com/rhailrake">
